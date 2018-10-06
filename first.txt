@@ -2,3 +2,5 @@ th is is my tet file
 this is my new ine
 we are adding this from feat1 branch
 we are adding this from master creating a conflict
+We are adding this from feat1 creating a conflict
+
